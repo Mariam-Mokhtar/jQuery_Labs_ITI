@@ -5,12 +5,10 @@ body {
       #F9F5E7);
   background-attachment: fixed;
 }
-
 #my_card {
   position: relative;
   background-color: #F9F5E7;
 }
-
 img{
   height: 200px;
   cursor: pointer;
