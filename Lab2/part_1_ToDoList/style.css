@@ -1,0 +1,21 @@
+
+@media (max-width: 768px) { 
+    #screen{
+        width: 90%;
+    }
+ }
+ @media (min-width: 769px) { 
+    #screen{
+        width:75%;
+    }
+ }
+
+ .icon-font{
+    font-size: 20px;
+ }
+ #done{
+    color: green;
+ }
+ #remove{
+    color: rgb(180, 7, 7);
+ }
